@@ -49,7 +49,11 @@ header .content {
   align-items: center;
   padding: 1.875rem;
 }
-
+header div.content {
+  display: flex;
+  align-items: center;
+  padding: 1.875rem;
+}
 header .logo {
   flex: 1;
 }
